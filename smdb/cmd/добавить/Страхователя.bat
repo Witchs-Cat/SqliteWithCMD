@@ -1,9 +1,11 @@
 cd ..
+cd ..
+
+@echo off
 
 @REM set UTF-8 decoding
 chcp 65001
 
-@echo on
 set /p "givenName=Введи имя: "
 set /p "middleName=Введи фамилию: "
 set /p "secondName=Введи отчество: "
