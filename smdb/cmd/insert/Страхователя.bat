@@ -1,7 +1,6 @@
-cd ..
-cd ..
-
 @echo off
+cd ..
+cd ..
 
 @REM set UTF-8 decoding
 chcp 65001
@@ -14,5 +13,5 @@ set query=^
     values ('%givenName%', '%middleName%', '%secondName%');
 sqlite3 auto.db "%query%"
 
-cd "cmd"
+cd "cmd/select"
 Страхователи.bat
