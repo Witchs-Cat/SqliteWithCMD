@@ -1,4 +1,4 @@
-@echo on
+@echo off
 call Assessments.bat
 call Clients.bat
 call Employees.bat

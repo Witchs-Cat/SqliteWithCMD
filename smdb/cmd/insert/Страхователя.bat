@@ -1,9 +1,11 @@
 @echo off
-cd ..
-cd ..
 
 @REM set UTF-8 decoding
 chcp 65001
+
+set sourceDir=%~dp0
+cd ..
+cd ..
 
 set /p "givenName=Введи имя: "
 set /p "middleName=Введи фамилию: "
@@ -15,3 +17,5 @@ sqlite3 auto.db "%query%"
 
 cd "cmd/select"
 Страхователи.bat
+
+cd "%sourceDir%"

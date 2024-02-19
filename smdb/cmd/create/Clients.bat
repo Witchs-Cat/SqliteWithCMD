@@ -1,4 +1,9 @@
-@REM @echo off
+@echo off
+
+set sourceDir=%~dp0
+cd ..
+cd ..
+
 
 set query=create table Clients (^
     id INTEGER PRIMARY KEY AUTOINCREMENT, ^
@@ -6,4 +11,6 @@ set query=create table Clients (^
     middleName TEXT NOT NULL, ^
     secondName TEXT NOT NULL);
 
-"../../sqlite3" "../../auto.db" "%query%"
+sqlite3 auto.db "%query%"
+
+cd "%sourceDir%"

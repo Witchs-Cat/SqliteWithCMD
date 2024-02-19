@@ -1,3 +1,4 @@
+set sourceDir=%~dp0
 cd ..
 cd ..
 
@@ -7,3 +8,5 @@ chcp 65001
 
 sqlite3 auto.db "select * from Clients;"
 pause
+
+cd "%sourceDir%"
