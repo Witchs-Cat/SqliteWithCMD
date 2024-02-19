@@ -1,0 +1,35 @@
+[33mcommit ab2e9fbcd0d44bfbe9b6cb6b705a75c3a2221442[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mselectAdd[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Mon Feb 19 13:51:12 2024 +0300
+
+    I’ll be back
+
+[33mcommit c92fecff5075dd8710f4236fa8b2658d99dc8812[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Mon Feb 19 11:13:12 2024 +0300
+
+    Directory refactoring
+
+[33mcommit 374ffd377b6c498adaa7e51cbe2545ec4b958857[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Mon Feb 19 09:22:04 2024 +0300
+
+    Adding relation to entities
+
+[33mcommit 710f0390780a7b9bdcc7df92034a0f5467cd061b[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Mon Feb 19 09:03:34 2024 +0300
+
+    All .bat SQLite selections
+
+[33mcommit 1bf8639f270354e0699ed0152b485f2954a70238[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Mon Feb 19 08:33:43 2024 +0300
+
+    Formatting batch
+
+[33mcommit 33fd8d0ae0205823e02afc44bdca41101286f7be[m
+Author: Witchs-Cat <da18.06.03@yandex.ru>
+Date:   Sat Feb 17 13:24:19 2024 +0300
+
+    initial commit
