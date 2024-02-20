@@ -4,7 +4,6 @@ set sourceDir=%~dp0
 cd ..
 cd ..
 
-
 set query=create table Safers (^
     id INTEGER PRIMARY KEY AUTOINCREMENT, ^
     saferContactId INTEGER NOT NULL, ^

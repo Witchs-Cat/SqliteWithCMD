@@ -3,7 +3,6 @@ set sourceDir=%~dp0
 cd ..
 cd ..
 
-
 set query=create table Assessments (^
     id INTEGER PRIMARY KEY AUTOINCREMENT, ^
     saferId INTEGER NOT NULL, ^
