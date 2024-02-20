@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:29:31.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Gdty33r8lSMHKHcwuJck" version="23.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:45:06.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="i-nM0mfFUajintb5A7uK" version="23.1.5" type="device">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1017" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -184,7 +184,7 @@
         <mxCell id="qQjqVpAs_nFgBPqkNLLQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;" parent="1" source="qQjqVpAs_nFgBPqkNLLQ-16" target="qQjqVpAs_nFgBPqkNLLQ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="225" />
+              <mxPoint x="770" y="195" />
               <mxPoint x="770" y="405" />
             </Array>
             <mxPoint x="800" y="255" as="sourcePoint" />
@@ -280,7 +280,7 @@
         <mxCell id="0ImiR40QdNpMhMbz4gQD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;" parent="1" source="_TIlHE3YznmICQywdyQt-16" target="0ImiR40QdNpMhMbz4gQD-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gyhax3fsCZcD0Ef371S3-1" value="Нотация Чена" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Gyhax3fsCZcD0Ef371S3-1" value="Нотация Чена" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="810" y="350" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
