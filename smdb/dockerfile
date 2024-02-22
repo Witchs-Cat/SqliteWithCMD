@@ -1,0 +1,17 @@
+# setup a tag and version
+FROM mcr.microsoft.com/windows/servercore:ltsc2019
+
+# Run command inside Linux
+# Download sqlite for Linux
+#run apk --no-cache add sqlite
+#run apk --no-cache add wine
+
+# create a directory to store resources for database
+workdir /res
+
+# copy resources into the containter
+copy . /
+
+# Run command inside docker containter with Linux
+cmd ["cd","cmd/select/"]
+cmd ["Сотрудники.bat"]
